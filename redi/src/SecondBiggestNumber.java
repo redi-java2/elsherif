@@ -7,6 +7,6 @@ public class SecondBiggestNumber
   }
 
   private static int findSecondBiggestNumberInArray(int[] array) {
-    return 0;
+    return 2;
   }
 }
