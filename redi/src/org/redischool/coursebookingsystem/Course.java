@@ -21,11 +21,12 @@ class Course {
 
     boolean book(Student student) {
         // Please complete the body of method book!
+        //MY NEW CODE
         return false;
     }
 
     String createParticipantList(){
-        String participantList="";
+        //MY NEW CODE
         // Please complete the body of method createParticipantList!
         return participantList;
     }
